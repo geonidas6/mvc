@@ -1,15 +1,15 @@
-# mvc
-projet de gestion des reclamation des professeur vers le labo
+## `MVC project `
+_projet de gestion des reclamation des professeur vers le labo_
 
-allez dans Config.php
+**allez dans Config.php**
 
 modifier 
 
-const DB_PASSWORD
+1- const DB_PASSWORD
 
-const DB_USER
+2- const DB_USER
 
-const DB_NAME
+3- const DB_NAME
 
 c'est tout lancer votre serveur apache ou autre puis lancer mysql
 
